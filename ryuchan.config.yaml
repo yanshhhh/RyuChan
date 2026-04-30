@@ -48,9 +48,9 @@ site:
       title: Cloud Music
       subtitle: 沉浸式享受音乐时光
   meting:
-    server: netease
-    id: '8900628861'
-    br: '320'
+    server: tencent
+    id: '9705271372'
+    br: '380'
     trans: true
   menu:
     - id: home
