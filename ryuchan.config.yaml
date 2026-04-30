@@ -50,7 +50,7 @@ site:
   meting:
     server: tencent
     id: '9705271372'
-    br: '380'
+    br: '128'
     trans: true
   menu:
     - id: home
