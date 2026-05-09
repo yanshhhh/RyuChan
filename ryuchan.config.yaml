@@ -13,7 +13,7 @@ site:
     pageSize: 8
   banner:
     enableRandom: true
-    randomUrl: https://t.alcy.cc/ycy
+    randomUrl: https://t.alcy.cc/acg
     randomCount: 5
     height: 60vh
     images:
@@ -70,7 +70,7 @@ site:
       target: _self
     - id: entertainment
       text: 娱乐
-      href: '#'
+      href: ''
       svg: material-symbols:play-circle-outline-rounded
       target: _self
       subItems:
