@@ -1,6 +1,6 @@
 site:
-  tab: RyuChan
-  title: RyuChan
+  tab: Yanshhhh
+  title: Yanshhhh
   description: 🌸 轻盈、优雅、纯净 —— 用文字与图片记录生活与创意
   language: zh
   favicon: /favicon.png
@@ -120,7 +120,7 @@ umami:
 user:
   name: Yanshhhh
   description: Ciallo～(∠・ω<)⌒★
-  site: https://hub.131714.xyz
+  site: https://www.yanshhhh.top
   avatar: /profile.png
   sidebar:
     social:
@@ -128,7 +128,7 @@ user:
         ariaLabel: Github
         title: Github
         svg: ri:github-line
-      - href: https://space.bilibili.com/1536411565
+      - href: https://space.bilibili.com/7306277
         ariaLabel: BiliBili
         title: BiliBili
         svg: ri:bilibili-line
@@ -137,10 +137,10 @@ user:
         ariaLabel: Douyin
         title: Douyin
         svg: ri:tiktok-line
-      - href: https://weibo.com/u/7579913510
-        title: Weibo
-        ariaLabel: Weibo
-        svg: ri:weibo-fill
+      - href: yanshhhh@foxmail.com
+        title: Email
+        ariaLabel: Email
+        svg: ri:mail-line
   footer:
     social:
       - href: https://github.com/kobaridev
